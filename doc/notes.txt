@@ -1,0 +1,8 @@
+---ts-node
+ts-node 是一个 Node.js 的执行环境，它可以让你在 Node.js 环境中直接运行 TypeScript 代码。
+https://juejin.cn/s/ts-node%E6%98%AF%E4%BB%80%E4%B9%88
+
+---wait-on
+等待-等待文件，端口，套接字，http（s）资源
+wait-on是跨平台的命令行实用程序，它将等待文件，端口，套接字和http（s）资源变得可用（或在反向模式下不可用）。
+https://blog.csdn.net/Fog_cloud/article/details/103470195
