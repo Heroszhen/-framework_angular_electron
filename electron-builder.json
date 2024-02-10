@@ -26,18 +26,18 @@
       "!*.map"
     ],
     "win": {
-      "icon": "dist/assets/icons",
+      "icon": "dist/framework_angular_electron/browser/assets/icons",
       "target": ["portable"]
     },
     "portable": {
-      "splashImage": "dist/assets/icons/electron.bmp"
+      "splashImage": "dist/framework_angular_electron/browser/assets/icons/electron.bmp"
     },
     "mac": {
-      "icon": "dist/assets/icons",
+      "icon": "dist/framework_angular_electron/browser/assets/icons",
       "target": ["dmg"]
     },
     "linux": {
-      "icon": "dist/assets/icons",
+      "icon": "dist/framework_angular_electron/browser/assets/icons",
       "target": ["AppImage"]
     }
   }
